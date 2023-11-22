@@ -108,5 +108,5 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 105.0
+      Value: 305.0
 - File: Screens/Screens.yaml
